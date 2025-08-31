@@ -48,7 +48,7 @@ The project follows a standard machine learning workflow for classification task
 
 # 4. Results
    
-The trained classifier provides an excellent baseline for predicting passenger survival.
+The trained classifier provides a baseline for predicting passenger survival.
 
 **Accuracy: [82.12%]**
 
