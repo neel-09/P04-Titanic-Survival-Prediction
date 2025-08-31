@@ -73,7 +73,7 @@ To run this project, you need to have Python and the required libraries installe
 Clone the repository:
 
 ```bash
-git clone [https://github.com/](https://github.com/)neel-09/Titanic-Survival-Prediction.git
+git clone https://github.com/neel-09/Titanic-Survival-Prediction.git
 ```
 
 Navigate to the project directory:
