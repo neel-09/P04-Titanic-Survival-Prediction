@@ -41,7 +41,7 @@ The project follows a standard machine learning workflow for classification task
 
 **Data Preprocessing:** Missing values are handled, and categorical features are converted into a numerical format suitable for a machine learning model.
 
-**Model Training:** A classification model (e.g., Logistic Regression, Decision Tree, or Random Forest) is trained on the preprocessed training data.
+**Model Training:** A classification model (Random Forest) is trained on the preprocessed training data.
 
 **Model Evaluation:** The model's performance is measured using accuracy and other relevant metrics, such as a confusion matrix.
 
